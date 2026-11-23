@@ -63,6 +63,8 @@ Each repo is self-contained. Clone the one you need, then drop its agent or temp
 
 ## License
 
-CC BY 4.0, canonical legal code in `LICENSE`. Each repo in this catalog carries its own LICENSE file.
+Copyright (c) 2026 Hyder Husain Arastu
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may share and adapt it, including commercially, as long as you give appropriate credit. Canonical legal code is in `LICENSE`; summary at https://creativecommons.org/licenses/by/4.0/. Each repo in this catalog carries its own LICENSE file.
 
 Part of palimnote-agent-patterns - more at https://github.com/hyderhusainarastu
